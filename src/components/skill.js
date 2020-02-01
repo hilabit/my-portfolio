@@ -20,7 +20,6 @@ const SkillIcon = styled.div`
   font-size: 50px;
 `;
 
-// capital S!
 const Skill = props => {
   const { icon, name, children } = props;
 
